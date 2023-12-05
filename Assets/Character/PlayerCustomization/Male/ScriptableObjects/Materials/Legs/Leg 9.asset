@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 558506ce8d4f446cfa86cabedbf30a17, type: 3}
+  m_Name: Leg 9
+  m_EditorClassIdentifier: 
+  id: 1
+  previewColor: {r: 0, g: 0, b: 0, a: 1}
+  materials:
+  - {fileID: 2100000, guid: f26da80dd85de7e4999446b510a66402, type: 2}
+  - {fileID: 2100000, guid: f26da80dd85de7e4999446b510a66402, type: 2}
+  - {fileID: 2100000, guid: b100c127104dccc4897ec6aca558224c, type: 2}
+  - {fileID: 2100000, guid: 161c185d47469eb4e952e26d19bb4944, type: 2}
+  - {fileID: 2100000, guid: b100c127104dccc4897ec6aca558224c, type: 2}

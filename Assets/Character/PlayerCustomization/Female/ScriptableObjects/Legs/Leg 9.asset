@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d688a6523658c444c95b23e0085c9635, type: 3}
+  m_Name: Leg 9
+  m_EditorClassIdentifier: 
+  itemId: 55
+  bodyPart: 4
+  itemSprite: {fileID: 21300000, guid: 31573f6fad6d5964f85ad04e3f8b7ee7, type: 3}
+  materials:
+  - {fileID: 11400000, guid: e441d48e18ca89740b7499234700f52d, type: 2}
+  - {fileID: 11400000, guid: 6c9f7344847dc5a4596f3bff924b82e6, type: 2}
+  - {fileID: 11400000, guid: 08ea6b345e2580f42b9cf6d52e62a1ea, type: 2}
+  - {fileID: 11400000, guid: d4f16815365435948941da01a5d0adf8, type: 2}

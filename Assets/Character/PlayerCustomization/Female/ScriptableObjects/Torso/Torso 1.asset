@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d688a6523658c444c95b23e0085c9635, type: 3}
+  m_Name: Torso 1
+  m_EditorClassIdentifier: 
+  itemId: 57
+  bodyPart: 3
+  itemSprite: {fileID: 21300000, guid: f2b1b7815c98cde41966a6df66192e38, type: 3}
+  materials:
+  - {fileID: 11400000, guid: 7b2109fbdcd1cb64a87b3a09f245c556, type: 2}
+  - {fileID: 11400000, guid: 0f778370a6615894493429a1fa2bff6b, type: 2}
+  - {fileID: 11400000, guid: 3be07fdb5e81bae49adf16673be4eda0, type: 2}
+  - {fileID: 11400000, guid: 6155d82d47eef0f4b80bd21bc3005761, type: 2}

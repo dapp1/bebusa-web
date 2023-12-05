@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Bridge.unity
+    guid: 1b9d735cfbb539a44a5307d1885af9ca
+  - enabled: 1
+    path: Assets/Scenes/Jumper.unity
+    guid: cae9feed7f899bf4d884d65c5b109536
+  - enabled: 1
+    path: Assets/Scenes/Runner.unity
+    guid: a2c9391caf3365c4c9b594399bf81582
+  - enabled: 1
+    path: Assets/Scenes/Squid.unity
+    guid: d492693da9d899042816ccf56bb2e80f
+  - enabled: 1
+    path: Assets/Scenes/Fighter.unity
+    guid: f77b7f0e72284804bbb3c65465901c6f
+  m_configObjects: {}

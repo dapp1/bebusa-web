@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Ground
+  - Lose
+  - NotLose
+  - Ramp
+  - CoinDetector
+  - NPC
+  - NPCPoint
+  - UI
+  - Wall
+  - Platform
+  - PlaneMove
+  - PlaneTopTrigger
+  - TriggerPlatform
+  - boat
+  - wood
+  - woodPlank
+  - bonus
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Player
+  - Item
+  - Environment
+  - Projectile
+  - DestroyableObject
+  - AreaCollider
+  - Biker
+  - DeathEnemy
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

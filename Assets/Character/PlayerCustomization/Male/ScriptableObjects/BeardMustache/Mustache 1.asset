@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d688a6523658c444c95b23e0085c9635, type: 3}
+  m_Name: Mustache 1
+  m_EditorClassIdentifier: 
+  itemId: 25
+  bodyPart: 2
+  itemSprite: {fileID: 21300000, guid: 16c1b7a223717434985f95da1420c07d, type: 3}
+  materials:
+  - {fileID: 11400000, guid: a0494460232687b40a1ada75d681efdd, type: 2}
+  - {fileID: 11400000, guid: 8b8c37dff8e9b4f8ca22d9f41ad57963, type: 2}
+  - {fileID: 11400000, guid: e2027f52f6c283b4db0afc14a8c8984f, type: 2}
+  - {fileID: 11400000, guid: d20521b1411710d4b994b885f34798b4, type: 2}
+  - {fileID: 11400000, guid: 5a4df897d93b97b4db9ab3c9d611838e, type: 2}
+  - {fileID: 11400000, guid: be55bdd32a42112438d51ab56c6a19f2, type: 2}
+  blockedItems: 
